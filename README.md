@@ -46,6 +46,23 @@ The config.ini file contains the following settings:
 `height`: The height of the video stream.
 `scale`: The scaling factor for the video stream.
 
+## The included example `configuration.ini` file reads as follows:
+
+```
+[RTSP]
+stream_url = rtsp://username:password@your-stream-address
+scale_width = 400
+scale_height = 300
+
+[Conky]
+conky_window_name = Video Stream
+update_interval = 5
+```
+
+The RTSP section includes the URL of the RTSP stream, as well as the desired width and height of the scaled video frames. The Conky section includes the name of the Conky window that will display the video stream, as well as the update interval (in seconds) for refreshing the video stream in the Conky window.
+
+You can adjust the values in this file to match your specific needs and preferences.
+
 ## Acknowledgements:
 This project was heavily inspired by [this Stack Overflow post](https://stackoverflow.com/questions/42166489/day-of-the-week-in-feb-2017/42166510#42166510).
 
