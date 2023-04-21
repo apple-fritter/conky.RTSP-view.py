@@ -37,7 +37,7 @@ conky -c conkyrc
 > The video stream should now be displayed in the Conky window.
 
 ## Configuration
-The config.ini file contains the following settings:
+The configuration.ini file contains the following settings:
 
 `stream_address`: The RTSP stream address.
 `username`: The username for accessing the RTSP stream.
@@ -46,7 +46,7 @@ The config.ini file contains the following settings:
 `height`: The height of the video stream.
 `scale`: The scaling factor for the video stream.
 
-## The included example `configuration.ini` file reads as follows:
+### The included example `configuration.ini` file reads as follows:
 
 ```
 [RTSP]
