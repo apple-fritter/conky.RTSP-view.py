@@ -1,4 +1,4 @@
-# Video Streaming in Conky with FFMPEG
+# RTSP in Conky with FFMPEG
 This project demonstrates how to stream video from an `RTSP` source and display it in a `Conky` window using `FFMPEG` and `OpenCV`.
 
 ## Requirements
@@ -46,7 +46,7 @@ The configuration.ini file contains the following settings:
 `height`: The height of the video stream.
 `scale`: The scaling factor for the video stream.
 
-### The included example `configuration.ini` file reads as follows:
+### example `configuration.ini`
 
 ```
 [RTSP]
@@ -59,7 +59,7 @@ conky_window_name = Video Stream
 update_interval = 5
 ```
 
-The RTSP section includes the URL of the RTSP stream, as well as the desired width and height of the scaled video frames. The Conky section includes the name of the Conky window that will display the video stream, as well as the update interval (in seconds) for refreshing the video stream in the Conky window.
+The RTSP section includes the URL of the RTSP stream, as well as the desired `width` and `height` of the scaled video frames. The Conky section includes the `name` of the Conky window that will display the video stream, as well as the `update interval` (in seconds) for refreshing the video stream in the Conky window.
 
 You can adjust the values in this file to match your specific needs and preferences.
 
