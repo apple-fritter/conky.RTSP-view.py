@@ -67,7 +67,7 @@ You can adjust the values in this file to match your specific needs and preferen
 This project was heavily inspired by [this Stack Overflow post](https://stackoverflow.com/questions/42166489/day-of-the-week-in-feb-2017/42166510#42166510).
 
 ### See also
-#### [.conkyrc](https://github.com/apple-fritter/conky.conkyrc): conky configuration file.
+#### [.conkyrc](https://github.com/apple-fritter/.conkyrc): conky configuration file.
 #### [moonphase.py](https://github.com/apple-fritter/conky.moonphase.py): RSS reader for Conky that reads in a TSV based list of feeds. Python.
 #### [tide.py](https://github.com/apple-fritter/conky.tide.py): Script that displays the local tide using the Tidal API. Python.
 #### [twitter.py](https://github.com/apple-fritter/conky.twitter.py): Script that displays a user's Twitter notifications. Python.
