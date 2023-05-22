@@ -9,6 +9,8 @@ FFMPEG 3.0+
 OpenCV 3.0+
 ```
 
+---
+
 ## Installation
 Install the required software:
 
@@ -35,6 +37,8 @@ conky -c conkyrc
 ```
 
 > The video stream should now be displayed in the Conky window.
+
+---
 
 ## Configuration
 The configuration.ini file contains the following settings:
@@ -63,8 +67,12 @@ The RTSP section includes the URL of the RTSP stream, as well as the desired `wi
 
 You can adjust the values in this file to match your specific needs and preferences.
 
+---
+
 ## Acknowledgements:
 This project was heavily inspired by [this Stack Overflow post](https://stackoverflow.com/questions/42166489/day-of-the-week-in-feb-2017/42166510#42166510).
+
+---
 
 ## 🤪 Conky Meta
 
@@ -75,10 +83,14 @@ This project was heavily inspired by [this Stack Overflow post](https://stackove
 - [tide.py](https://github.com/apple-fritter/conky.tide.py): Script that displays the local tide using the Tidal API. Python.
 - [twitter.py](https://github.com/apple-fritter/conky.twitter.py): Script that displays a user's Twitter notifications. Python.
 
+---
+
 ## [Disclaimer](DISCLAIMER)
 **This software is provided "as is" and without warranty of any kind**, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
 
 **The authors do not endorse or support any harmful or malicious activities** that may be carried out with the software. It is the user's responsibility to ensure that their use of the software complies with all applicable laws and regulations.
+
+---
 
 ## License
 
