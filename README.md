@@ -68,7 +68,7 @@ This project was heavily inspired by [this Stack Overflow post](https://stackove
 
 ## 🤪 Conky Meta
 
-- [888v](https://github.com/apple-fritter/888v): - Virtual webcam clone with Conky overlay; Bash.
+- [888v](https://github.com/apple-fritter/888v): Virtual webcam clone with Conky overlay; Bash.
 - [.conkyrc](https://github.com/apple-fritter/.conkyrc): conky configuration file.
 - [moonphase.py](https://github.com/apple-fritter/conky.moonphase.py): RSS reader for Conky that reads in a TSV based list of feeds. Python.
 - [RTSP-view.py](https://github.com/apple-fritter/conky.RTSP-view.py): Script that displays an RTSP stream. Python.
