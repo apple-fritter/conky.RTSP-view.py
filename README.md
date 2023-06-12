@@ -70,7 +70,7 @@ You can adjust the values in this file to match your specific needs and preferen
 ---
 
 ## Acknowledgements:
-This project was heavily inspired by a 404'ed [Stack Overflow post](https://stackoverflow.com/).
+This project was heavily inspired by a 404'ed [Stack Overflow](https://stackoverflow.com/) post.
 
 ---
 
