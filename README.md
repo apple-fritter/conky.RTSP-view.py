@@ -70,7 +70,7 @@ You can adjust the values in this file to match your specific needs and preferen
 ---
 
 ## Acknowledgements:
-This project was heavily inspired by [this Stack Overflow post](https://stackoverflow.com/questions/42166489/day-of-the-week-in-feb-2017/42166510#42166510).
+This project was heavily inspired by a 404'ed [Stack Overflow post](https://stackoverflow.com/).
 
 ---
 
